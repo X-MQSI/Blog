@@ -3,7 +3,7 @@ title: About me
 description: Some personal information about me.
 slug: About-me
 date: 2024-04-01 01:30:00+0800
-image: Cirno.jpg
+image: kochiyasanae.jpg
 categories:
     - Intro
 tags:
