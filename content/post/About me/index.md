@@ -10,7 +10,7 @@ tags:
     - 恍惚交错落花雨
     - MQSI
     - Intro
-wight: 2
+weight: 2
 ---
 
 Thank you for coming to understand what kind of person I am!
