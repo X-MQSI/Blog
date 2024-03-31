@@ -1,8 +1,7 @@
 ---
 title: About me
 description: Some personal information about me.
-slug: Summary
-date: 2024-04-01 00:30:00+0800
+date: 2024-04-01 01:30:00+0800
 image: Cirno.jpg
 categories:
     - Intro
