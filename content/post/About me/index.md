@@ -3,11 +3,13 @@ title: About me
 description: Some personal information about me.
 slug: Summary
 date: 2024-04-01 00:30:00+0800
-image: kochiyasanae.jpg
+image: Cirno.jpg
 categories:
     - Intro
 tags:
-    - 恍惚交错落花雨 MQSI Intro
+    - 恍惚交错落花雨
+    - MQSI
+    - Intro
 weight: 1
 ---
 
@@ -18,9 +20,18 @@ Thank you for coming to understand what kind of person I am!
 
 A third year high school student studying at Haikou Experimental High School (just a plaything for the principal).
 
+There are two main internet names used: 山雨欲来风满楼/恍惚交错落花雨
+Pen names include: 寻轩/清水
+Sometimes I also use a pseudonym: 林星萱
+If you want to address me directly, I hope you can use the pen name "寻轩".
+
 A 東方Project Enthusiast😇
 
-Attempted to learn C++(shit), Rust (give up), ASP (fail), PHP (not implemented), Python/Micro Python (Power By GPT), and even wrote poorly in HTML/CSS/JavaScript (laughs); Having tinkered with entry-level embedded/electronic design, I have not yet achieved the goal of lighting up an MCU. I look forward to continuing to work hard; I have learned a little experimental chemistry (just to the extent that I won't blow up the laboratory); Understand some basic RF knowledge, only understand that some antennas pointing towards mobile phones have poor signal; Skilled in network engineering, capable of torturing and exploding routers;
+Attempted to learn C++(shit), Rust (give up), ASP (fail), PHP (not implemented), Python/Micro Python (Power By GPT), and even wrote poorly in HTML/CSS/JavaScript (haha); 
+Having tinkered with entry-level embedded/electronic design, I have not yet achieved the goal of lighting up an MCU. I look forward to continuing to work hard; 
+I have learned a little experimental chemistry (just to the extent that I won't blow up the laboratory); 
+Understand some basic RF knowledge, only understand that some antennas pointing towards mobile phones have poor signal; 
+Skilled in network engineering, capable of torturing and exploding routers;
 **Attempting to create a simple satellite with vague knowledge**
 
 Understand some layout design (skill point: -1). Having written one point eight part essay (thesis), proficient in the formatting of eight part essays; Participated in the layout design work of the Library Daily and received widespread negative reviews.
@@ -31,9 +42,18 @@ I have won the first prize and third prize in the National Information Technolog
 
 一名就读于海口实验中学的高三年级学生（校长的玩物罢了）。
 
+主要使用的网名有两个：山雨欲来风满楼/恍惚交错落花雨
+笔名有：寻轩/清水
+有时也会用化名：林星萱
+如果你要直接称呼我，我希望你能够使用“寻轩”这个笔名。
+
 一个云车万人😇
 
-试图学习过C++（shit）、Rust（放弃）、ASP（失败）、PHP（未实现）、Python/Micro Python（Power By GPT），连HTML/CSS/JavaScript都写的稀烂（笑）；折腾过一点入门级嵌入式/电子设计，目前还没有达到点亮一颗MCU的成就，期待继续努力；学过一点实验化学（仅仅是不会把实验室炸了的那种程度）；了解一些基础的射频知识，只明白有些天线指向手机信号不好；会一点网络工程，能把路由器折磨炸的那种；
+试图学习过C艹（shit）、Rust（放弃）、ASP（失败）、PHP（未实现）、Python/Micro Python（Power By GPT），连HTML/CSS/JavaScript都写的稀烂（笑）；
+折腾过一点入门级嵌入式/电子设计，目前还没有达到点亮一颗MCU的成就，期待继续努力；
+学过一点实验化学（仅仅是不会把实验室炸了的那种程度）；
+了解一些基础的射频知识，只明白有些天线指向手机信号不好；
+会一点网络工程，能把路由器折磨炸的那种；
 **正在试图用微渺的知识制造一颗简单的卫星。**
 
 了解一点排版设计（技能点：-1）。写过一点八股文（论文），由此精通八股文的排版格式；参与过《图书馆报》的排版设计工作，获得广泛**恶**评。
@@ -96,7 +116,7 @@ Later on, I had to give up this hobby because I entered a boarding school, but i
 后续因为进入寄宿制学校不得不放弃这一爱好，不过这也避免了我把我家给爆破了。
 
 ## A HAM
-###(Amateur radio enthusiasts)
+### (Amateur radio enthusiasts)
 
 Amateur radio is a very interesting field, and I am an entry-level amateur radio enthusiast.
 
@@ -137,7 +157,7 @@ I am the fan of 『チルノ』 and 『東風谷早苗』. I love these two char
 
 我是『チルノ』和『東風谷早苗』厨，我最喜欢这两个角色，如果您愿意赞助我，那就请给我她们的周边吧（笑）！
 
-![チルノ](Chinon.jpg) ![東風谷早苗](kochiyasanae.jpg)
+![チルノ](Cirno.jpg) ![東風谷早苗](kochiyasanae.jpg)
 
 ## Aerospace Enthusiast
 
@@ -170,11 +190,9 @@ I have designed some cultural and creative works for my alma mater and also serv
 
 ****************
 
-喜欢好看的，有设计感的东西，所以有的时候也会自己试着去设计一些东西或者排版一些印刷品。
-
+我喜欢好看的，有设计感的东西，所以有的时候也会自己试着去设计一些东西或者排版一些印刷品。
 
 不过我真的很不擅长。
-
 
 目前曾设计过一些我的母校的文创，还担任过《图书馆报》的排版编辑。
 

@@ -2,12 +2,13 @@
 title: About this Blog
 description: A blog that I really like but won't become my ultimate choice.
 slug: Summary
-date: 2024-04-01 00:30:00+0800
+date: 2024-04-01 01:00:00+0800
 image: cover.jpg
 categories:
     - Intro
 tags:
-    - Blog MQSI Intro
+    - Blog
+    - Intro
 weight: 1
 ---
 
