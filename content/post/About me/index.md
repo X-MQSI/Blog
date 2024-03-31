@@ -1,6 +1,7 @@
 ---
 title: About me
 description: Some personal information about me.
+slug: About-me
 date: 2024-04-01 01:30:00+0800
 image: Cirno.jpg
 categories:
@@ -9,6 +10,7 @@ tags:
     - 恍惚交错落花雨
     - MQSI
     - Intro
+wight: 2
 ---
 
 Thank you for coming to understand what kind of person I am!
