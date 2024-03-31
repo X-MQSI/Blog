@@ -9,6 +9,7 @@ categories:
 tags:
     - Blog
     - Intro
+weight: 1
 ---
 
 This blog uses a Hugo Theme called Stack Starter Template. I really like this theme, but it's not the same as my ideal theme, so it won't be my final blog. However, this doesn't hinder my love for it. I extend my highest respect to the author of this theme here!
@@ -30,5 +31,3 @@ You also can browse my Blog in Building [here](https://github.com/X-MQSI/)
 ****************
 MQSI
 谨作于2024年春
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
