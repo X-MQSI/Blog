@@ -1,7 +1,7 @@
 ---
 title: About this Blog
 description: A blog that I really like but won't become my ultimate choice.
-slug: Summary
+slug: About-this-Blog
 date: 2024-04-01 01:00:00+0800
 image: cover.jpg
 categories:
