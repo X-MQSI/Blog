@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2024
+customText = "寻枝摘叶，轩然霞举。"
 
 [dateFormat]
 published = "Jan 02, 2006"
