@@ -14,3 +14,8 @@ hasCJKLanguage = true
 
 # Change it to your Disqus shortname before using
 disqusShortname = "MQSI"
+
+[sitemap]
+  changeFreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = -1
