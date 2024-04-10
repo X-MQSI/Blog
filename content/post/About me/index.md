@@ -208,7 +208,7 @@ This is a chaotic topic, and all I have to say is two words:
 2. Without academic democracy and intellectual freedom, science cannot prosper.
 
 Similarly, I oppose discrimination, bullying, war, and all unreasonable things.  
-Similarly, I am also friendly to LGBTQ+(excluding those who use LGBTQ+for special treatment)
+Similarly, I am also respect people's diverse perceptions of themselves.
 
 ****************
 
@@ -218,7 +218,7 @@ Similarly, I am also friendly to LGBTQ+(excluding those who use LGBTQ+for specia
 2.没有学术的民主和思想的自由，科学就不能繁荣。
 
 同样，我反对歧视，反对霸凌，反对战争，反对一切不合理的事情。  
-同样，我也对LGBTQ+友好（利用LGBTQ+来获得特殊待遇的人除外）
+同样，我尊重人们对自身的多元化认知。
 
 
 ****************
