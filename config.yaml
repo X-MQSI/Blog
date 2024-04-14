@@ -37,7 +37,7 @@ params:
 
     comments:
         enabled: false
-        type: gitalk
+        provider: gitalk
 
         disqusjs:
             shortname:
@@ -111,6 +111,7 @@ params:
             repo: 'Blog'
             clientID: 'a585c52acc853b0f1671'
             clientSecret: '2584ffc018f17c84831e4e6a00d2d376a2596def'
+            proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
 
         cusdis:
             host:
