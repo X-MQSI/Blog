@@ -37,7 +37,7 @@ params:
 
     comments:
         enabled: false
-        provider: gitalk
+        type: gitalk
 
         disqusjs:
             shortname:
