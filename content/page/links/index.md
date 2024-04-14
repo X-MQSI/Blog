@@ -6,6 +6,10 @@ links:
     description: Sat Blog DE BI4KZZ.
     website: https://bi4kzz.wordpress.com
 
+  - title: 恋の歌
+    description: Dedicatus545的技术性博客~
+    website: https://prohibitorum.top
+
   - title: HAMeteo
     description: 一个仍处于停工阶段的无线电与气象项目。
     website: https://HAMeteo.top
