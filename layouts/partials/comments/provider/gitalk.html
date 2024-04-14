@@ -8,14 +8,14 @@
 <script src="https://cdn.jsdelivr.net/npm/blueimp-md5@2.18.0/js/md5.min.js"></script>
 <script>
     const gitalk = new Gitalk({
-        clientID: "{{- .clientID -}}",
-        clientSecret: "{{- .clientSecret -}}",
-        repo: "{{- .repo -}}",
-        owner: "{{- .owner -}}",
-        admin: ["{{- .admin -}}"],
+        clientID: 'a585c52acc853b0f1671',
+        clientSecret: "2584ffc018f17c84831e4e6a00d2d376a2596def",
+        repo: "Blog",
+        owner: "X-MQSI",
+        admin: ["X-MQSI"],
         distractionFreeMode: false, // Facebook-like distraction free mode
         id: md5(location.pathname), // Max Location.pathname Legth:75  https://github.com/gitalk/gitalk/issues/102
-        proxy: '{{- .proxy }}',
+        proxy: 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token',
         createIssueManually: true
     });
     (function () {
