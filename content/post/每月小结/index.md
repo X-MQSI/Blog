@@ -13,7 +13,6 @@ keywords:
     - 每月小结
 categories:
     - 随笔/日记
-    - 每月小结
 tags:
     - Essay
     - 随笔

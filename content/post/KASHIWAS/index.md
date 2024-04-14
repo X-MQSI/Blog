@@ -11,8 +11,7 @@ keywords:
     - Satellite
     - 千葉工業大学
 categories:
-    - Science
-    - Satellite
+    - 科学技术
 tags:
     - KASHIWA
     - Satellite

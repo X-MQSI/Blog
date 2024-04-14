@@ -5,8 +5,8 @@ slug: Some-handicrafts
 date: 2024-04-02 00:15:00+0800
 image: KASHIWA.jpg
 categories:
-    - share
-    - design
+    - 分享
+    - 设计
 tags:
     - Crafts
     - 千葉工業大学

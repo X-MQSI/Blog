@@ -12,7 +12,6 @@ keywords:
     - 恍惚交错落花雨
 categories:
     - 随笔/日记
-    - 生活
 tags:
     - Essay
     - 随笔

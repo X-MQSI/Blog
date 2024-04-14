@@ -10,7 +10,7 @@ keywords:
     - 寻轩
     - 恍惚交错落花雨
 categories:
-    - Intro
+    - 简介
 tags:
     - Blog
     - Intro
