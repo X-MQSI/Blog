@@ -7,9 +7,7 @@ provider: gitalk
 card: summary
 keywords:
     - Essay
-    - MQSI
     - 随笔
-    - 恍惚交错落花雨
     - 每月小结
 categories:
     - 随笔/日记

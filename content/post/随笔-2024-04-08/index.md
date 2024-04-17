@@ -2,7 +2,7 @@
 title: 随笔 —— 2024年4月8日
 description: 一篇随笔罢了。
 slug: Essay-2024-04-08
-date: 2024-04-02 22:30:00+0800
+date: 2024-04-08 22:30:00+0800
 provider: gitalk
 card: summary
 keywords:

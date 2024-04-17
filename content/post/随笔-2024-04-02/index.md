@@ -7,9 +7,9 @@ provider: gitalk
 card: summary
 keywords:
     - Essay
-    - MQSI
+    - 生活
     - 随笔
-    - 恍惚交错落花雨
+    - 那些留迹人生的过客
 categories:
     - 随笔/日记
     - 那些留迹人生的过客
