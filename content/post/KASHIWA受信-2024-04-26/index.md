@@ -1,7 +1,7 @@
 ---
 title: KASHIWA受信报告
 description: 2024年04月26日，上午11时
-slug: KASHIWA
+slug: kashiwa_042611
 date: 2024-04-26 13:50:00+0800
 provider: gitalk
 card: summary
