@@ -26,13 +26,18 @@
   crossorigin="anonymous"></script>
 
 <!-- Random Music -->
-<audio id="musicPlayer" controls autoplay>
-  <source src="" type="audio/mp3" id="musicSource">
-  Your browser does not support the audio element.
-</audio>
+<div id="musicContainer">
+  <audio id="musicPlayer" autoplay>
+    <source src="" type="audio/mp3" id="musicSource">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+<a id="toggleButton" onclick="toggleMusic()" style="position:fixed;top:50px;right:15%;"><img
+    src="/img/mute.svg"></a>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
+  function getRandomMusic() {
+    console.log('开始加载音乐');
     const musicList = [
       '/music/青空のテーマ （青空的主题）.mp3',
       '/music/-歳月-雲流れ-.mp3',
@@ -77,8 +82,27 @@
     ];
 
     const randomIndex = Math.floor(Math.random() * musicList.length);
+    return musicList[randomIndex];
+  }
+
+  function toggleMusic() {
+    console.log('播放状态切换');
+    const musicPlayer = document.getElementById('musicPlayer');
+    const toggleButton = document.getElementById('toggleButton');
+
+    if (musicPlayer.paused) {
+      musicPlayer.play();
+      toggleButton.innerHTML = '<img src="/img/music.svg" alt="播放">';
+    } else {
+      musicPlayer.pause();
+      toggleButton.innerHTML = '<img src="/img/mute.svg" alt="暂停">';
+    }
+  }
+
+
+  document.addEventListener('DOMContentLoaded', function () {
     const musicSource = document.getElementById('musicSource');
-    musicSource.src = musicList[randomIndex];
+    musicSource.src = getRandomMusic();
     const musicPlayer = document.getElementById('musicPlayer');
     musicPlayer.load();
   });
