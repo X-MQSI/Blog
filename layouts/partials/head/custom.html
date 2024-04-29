@@ -27,13 +27,12 @@
 
 <!-- Random Music -->
 <div id="musicContainer">
-  <audio id="musicPlayer" autoplay>
+  <audio id="musicPlayer">
     <source src="" type="audio/mp3" id="musicSource">
-    Your browser does not support the audio element.
   </audio>
 </div>
 <a id="toggleButton" onclick="toggleMusic()" style="position:fixed;top:50px;right:15%;"><img
-    src="/img/mute.svg"></a>
+    src="/icon/mute.svg"></a>
 
 <script>
   function getRandomMusic() {
@@ -92,10 +91,10 @@
 
     if (musicPlayer.paused) {
       musicPlayer.play();
-      toggleButton.innerHTML = '<img src="/img/music.svg" alt="播放">';
+      toggleButton.innerHTML = '<img src="/icon/music.svg" alt="播放">';
     } else {
       musicPlayer.pause();
-      toggleButton.innerHTML = '<img src="/img/mute.svg" alt="暂停">';
+      toggleButton.innerHTML = '<img src="/icon/mute.svg" alt="暂停">';
     }
   }
 
