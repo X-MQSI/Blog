@@ -3,6 +3,7 @@ title: 离歌又起，岁月留痕。　
 description: 时光如水，总是无言。
 slug: 2024-05-21
 date: 2024-05-21 13:00:00+0800
+image: 博学园—日晷.jpeg
 provider: gitalk
 card: summary
 license: No open licensing is provided.
