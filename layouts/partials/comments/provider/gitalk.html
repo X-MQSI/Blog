@@ -2,9 +2,9 @@
 <div id="gitalk-container"></div>
 <link
     rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/gitalk@1.7.2/dist/gitalk.css"
+    href="https://cdn.jsdelivr.net/npm/gitalk@1.8.0/dist/gitalk.css"
 />
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1.7.2/dist/gitalk.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1.8.0/dist/gitalk.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/blueimp-md5@2.18.0/js/md5.min.js"></script>
 <script>
     const gitalk = new Gitalk({
@@ -15,7 +15,7 @@
         admin: ["X-MQSI"],
         distractionFreeMode: false, // Facebook-like distraction free mode
         id: md5(location.pathname), // Max Location.pathname Legth:75  https://github.com/gitalk/gitalk/issues/102
-        proxy: 'https://tle.mqsi.xyz/https://github.com/login/oauth/access_token',// 感谢@Dedicatus546的解决方案  https://prohibitorum.top/7cc2c97a15b4.html
+        proxy: 'https://gitalk.mqsi.xyz/https://github.com/login/oauth/access_token',
         createIssueManually: true
     });
     (function () {
