@@ -5,6 +5,7 @@ slug: KASHIWA
 date: 2024-04-11 12:30:00+0800
 provider: gitalk
 card: summary
+image: KASHIWA.jpg
 keywords:
     - KASHIWA
     - MQSI

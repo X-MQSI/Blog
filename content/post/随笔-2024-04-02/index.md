@@ -5,6 +5,7 @@ slug: Essay-2024-04-02
 date: 2024-04-02 22:30:00+0800
 provider: gitalk
 card: summary
+image: Cover.jpg
 keywords:
     - Essay
     - 生活

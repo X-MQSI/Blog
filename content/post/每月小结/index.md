@@ -5,6 +5,7 @@ slug: Monthly-Summary
 date: 2024-04-05 22:00:00+0800
 provider: gitalk
 card: summary
+image: Cover.jpg
 keywords:
     - Essay
     - 随笔
@@ -30,3 +31,9 @@ tags:
 （不是）
 
 暂时没想到写点啥，先留着吧，等过段时间再写（希望我还能记得）
+
+## 2024年6月
+
+果然，在过去的几个月里完全没搭理过这篇 “小结” ……  
+
+还是随自己本心随时写点吧。
