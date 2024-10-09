@@ -41,11 +41,17 @@ tags:
 
 本章默认以 `root` 权限来执行命令，若在非 `root` 环境，请自行 `sudo`。  
 
-1. 首先，你需要一个得心应手的文档编辑器，如 `nano` 或者其他。  
+### 1. 文档编辑器
 
-2. 确认你的网络环境。由于 OpenVZ 虚拟平台的特性，IPv6 可能无法使用，请你确认自己的网络是否正常，保证安装顺利。  
+欲利其功必先利其器。首先，你需要一个得心应手的文档编辑器，如 `nano` 或者其他。
 
-3. 你的 Ubuntu 可能自带了 Apache2 等软件，请确认 80 及 443 端口有无程序占用。  
+### 2. 网络环境
+
+由于 OpenVZ 虚拟平台的特性，IPv6 可能无法使用，请你确认自己的网络是否正常，保证安装顺利。
+
+### 3. 端口
+
+Ubuntu 或主机商提供的的防火墙可能会拦截 80 与 443 端口。你的 Ubuntu 也可能自带了 Apache2 等软件占用这两个端口。请确保端口畅通无侵占。
 
 **********
 
@@ -55,13 +61,13 @@ tags:
 - [iRedMail 官方文档](https://docs.iredmail.org/install.iredmail.on.debian.ubuntu-zh_CN.html)  
 - [知乎文章](https://zhuanlan.zhihu.com/p/509130006)  
 
-1. 修改主机名：  
+### 1. 修改主机名  
+
+   在本机公网 IP 后添加（或修改）主机名与短名称：  
 
    ```bash
    nano /etc/hosts
    ```
-
-2. 在本机公网 IP 后添加（或修改）主机名与短名称：  
 
    ```bash
    # IP with Mail Hostname
@@ -78,13 +84,17 @@ tags:
 
    > 注意，你应该把 IP 与域名换成自己的内容。
 
-3. 安装 `tar` 和 `gzip` 程序用于解压缩文件：  
+### 2. 安装解压软件
+
+   安装 `tar` 和 `gzip` 程序用于解压缩文件：  
 
    ```bash
    apt-get install tar gzip
    ```
 
-4. 获取安装入口文件、解压并运行：  
+### 3. 下载解压与运行
+
+   获取安装入口文件、解压并运行：
 
    ```bash
    wget https://github.com/iredmail/iRedMail/archive/refs/tags/1.7.1.tar.gz
@@ -93,17 +103,21 @@ tags:
    bash iRedMail.sh
    ```
 
-5. 根据安装提示自行配置。  
+### 4. 选择配置
+
+   根据安装提示自行配置。(参考[知乎文章](https://zhuanlan.zhihu.com/p/509130006) )
 
    > 安装过程中注意不要启用防火墙（Firewall），否则如果你安装的 V2Ray 等服务可能会出现故障。
 
-6. 安装结束后，你可以在此处查看配置信息：  
+### 5. 配置信息
+
+   安装结束后，你可以在此处查看配置信息与小贴士：
 
    ```bash
    nano /root/iRedMail-1.7.1/iRedMail.tips
    ```
 
-7. 最后，重启服务器：  
+### 6. 重启服务器
 
    ```bash
    reboot
@@ -284,3 +298,8 @@ TXT 记录：主机名设置为“_dmarc.mail”，内容为“v=DMARC1; p=none;
 至此，你应该一切配置就绪，可以向 QQ、163、Outlook、Gmail 等邮箱发送测试邮件了。
 
 **********
+
+事后整理，若有任何问题或错误，敬请读者在评论区指出。
+
+2024年10月09日  
+于 太原
