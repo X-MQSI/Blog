@@ -1,6 +1,6 @@
 ---
 title: 个人VPS开设邮件服务器
-description: 2024年10月09日，下午8时
+description: iRedMail的安装配置与优化
 slug: vps-iRedMail
 date: 2024-10-09 20:30:00+0800
 provider: gitalk
