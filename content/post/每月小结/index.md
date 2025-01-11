@@ -7,14 +7,12 @@ provider: gitalk
 card: summary
 image: Cover.jpg
 keywords:
-    - Essay
-    - 随笔
+    - 随笔/日记
     - 每月小结
 categories:
     - 随笔/日记
 tags:
-    - Essay
-    - 随笔
+    - 随笔/日记
     - 每月小结
 ---
 

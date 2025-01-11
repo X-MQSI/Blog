@@ -7,16 +7,13 @@ provider: gitalk
 card: summary
 image: Cover.jpg
 keywords:
-    - Essay
     - MQSI
-    - 随笔
+    - 随笔/日记
     - 恍惚交错落花雨
 categories:
     - 随笔/日记
 tags:
-    - Essay
-    - 随笔
-    - 生活
+    - 随笔/日记
 ---
 
 朝曦艰难地突破初秋的云海。  

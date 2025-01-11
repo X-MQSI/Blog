@@ -8,9 +8,6 @@ categories:
     - 分享
     - 设计
 tags:
-    - Crafts
-    - 千葉工業大学
-    - Touhou Project
     - Satellite
     - 東風谷早苗
 ---

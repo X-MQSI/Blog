@@ -14,9 +14,7 @@ keywords:
 categories:
     - 科学技术
 tags:
-    - KASHIWA
     - Satellite
-    - 千葉工業大学
 ---
 
 **注意！以下内容翻译自 [KASHIWA团队](https://twitter.com/CitGardens) 的 [Tweets](https://twitter.com/CitGardens/status/1778243738638434802)**

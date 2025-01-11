@@ -12,9 +12,8 @@ keywords:
 categories:
     - 简介
 tags:
-    - Blog
-    - Intro
-weight: 1
+    - 简介
+weight: 2
 ---
 
 This blog uses a Hugo Theme called Stack Starter Template.  

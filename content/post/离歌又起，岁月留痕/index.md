@@ -8,14 +8,12 @@ provider: gitalk
 card: summary
 license: No open licensing is provided.
 keywords:
-    - Essay
     - 随笔
     - 恍惚交错落花雨
 categories:
     - 随笔/日记
     - 那些留迹人生的过客
 tags:
-    - Essay
     - 随笔/日记
     - 生活
     - 那些留迹人生的过客

@@ -14,6 +14,7 @@ keywords:
 categories:
     - 科学技术
 tags:
+    - 科学技术
     - VPS
     - 邮件服务器
 ---

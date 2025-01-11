@@ -7,15 +7,13 @@ provider: gitalk
 card: summary
 image: Cover.jpg
 keywords:
-    - Essay
     - MQSI
-    - 随笔
+    - 随笔/日记
     - 恍惚交错落花雨
 categories:
     - 随笔/日记
 tags:
-    - Essay
-    - 随笔
+    - 随笔/日记
     - 生活
 ---
 

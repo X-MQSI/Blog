@@ -10,13 +10,11 @@ keywords:
     - KASHIWA
     - MQSI
     - Satellite
-    - 千葉工業大学
 categories:
     - 科学技术
 tags:
-    - KASHIWA
+    - 科学技术
     - Satellite
-    - 千葉工業大学
 ---
 
 我使用了一个工作在137MHz的VHF四壁螺旋天线来接收KASHIWA在437.375MHZ的信号，效果可能比较一般，敬请见谅。

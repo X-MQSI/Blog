@@ -1,21 +1,19 @@
 ---
 title: 致那失约的「花雨」　
 description: 恍惚交错落花雨。
-slug: article_rain-of-flowers
+slug: Essay-2024-04-17
 date: 2024-04-17 22:30:00+0800
 provider: gitalk
 card: summary
 image: Cover.jpg
 license: No open licensing is provided.
 keywords:
-    - Essay
-    - 随笔
+    - 随笔/日记
     - 恍惚交错落花雨
+    - 那些留迹人生的过客
 categories:
     - 随笔/日记
-    - 那些留迹人生的过客
 tags:
-    - Essay
     - 随笔/日记
     - 生活
     - 那些留迹人生的过客

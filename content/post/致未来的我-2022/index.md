@@ -7,15 +7,13 @@ provider: gitalk
 card: summary
 image: Cover.png
 keywords:
-    - Essay
     - 生活
-    - 随笔
+    - 随笔/日记
     - 致未来的自己
 categories:
     - 随笔/日记
     - 致未来的自己
 tags:
-    - Essay
     - 随笔/日记
     - 生活
     - 致未来的自己

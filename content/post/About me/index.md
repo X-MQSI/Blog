@@ -13,15 +13,13 @@ keywords:
 categories:
     - 简介
 tags:
-    - 恍惚交错落花雨
-    - MQSI
-    - Intro
-weight: 2
+    - 简介
+weight: 1
 ---
 
 ## Summary
 
-A third year high school student studying at Haikou Experimental High School (just a plaything for the principal).
+Full-time undergraduate student at North University of China.
 
 There are two main internet names used: 山雨欲来风满楼/恍惚交错落花雨  
 Pen names include: 寻轩/清水  
@@ -43,7 +41,7 @@ I have won the first prize and third prize in the National Information Technolog
 
 ****************
 
-一名就读于海口实验中学的高三年级学生（校长的玩物罢了）。
+中北大学全日制本科在读。
 
 主要使用的网名有两个：山雨欲来风满楼/恍惚交错落花雨  
 笔名有：寻轩/清水  

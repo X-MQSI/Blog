@@ -1,21 +1,19 @@
 ---
 title: 随笔 —— 2023年12月07日
-description: 一篇随笔罢了。
+description: 那个时候对飞向天空的气球确实充满了好奇，也没想到那么多年后它还牵动着我对天空的向往。  
 slug: Essay-2023-12-07
 date: 2023-12-07 12:00:00+0800
 provider: gitalk
 card: summary
 image: Cover.jpg
 keywords:
-    - Essay
     - MQSI
-    - 随笔
+    - 随笔/日记
     - 恍惚交错落花雨
 categories:
     - 随笔/日记
 tags:
-    - Essay
-    - 随笔
+    - 随笔/日记
     - 生活
 ---
 

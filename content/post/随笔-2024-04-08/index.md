@@ -1,5 +1,5 @@
 ---
-title: 随笔 —— 2024年4月8日
+title: 随笔 —— 2024年04月08日
 description: 一篇随笔罢了。
 slug: Essay-2024-04-08
 date: 2024-04-08 22:30:00+0800
@@ -7,14 +7,12 @@ provider: gitalk
 card: summary
 image: Cover.png
 keywords:
-    - Essay
     - MQSI
     - 随笔
     - 恍惚交错落花雨
 categories:
     - 随笔/日记
 tags:
-    - Essay
     - 随笔
     - 生活
 ---

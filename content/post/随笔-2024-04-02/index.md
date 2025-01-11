@@ -1,5 +1,5 @@
 ---
-title: 随笔 —— 2024年4月2日
+title: 随笔 —— 2024年04月02日
 description: 一篇随笔罢了。
 slug: Essay-2024-04-02
 date: 2024-04-02 22:30:00+0800
@@ -7,15 +7,12 @@ provider: gitalk
 card: summary
 image: Cover.jpg
 keywords:
-    - Essay
     - 生活
-    - 随笔
+    - 随笔/日记
     - 那些留迹人生的过客
 categories:
     - 随笔/日记
-    - 那些留迹人生的过客
 tags:
-    - Essay
     - 随笔/日记
     - 生活
     - 那些留迹人生的过客
