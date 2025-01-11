@@ -5,7 +5,7 @@ slug: Essay-2024-08-25
 date: 2024-08-25 03:20:00+0800
 provider: gitalk
 card: summary
-image: Cover.png
+image: Cover.jpg
 keywords:
     - MQSI
     - 随笔/日记
