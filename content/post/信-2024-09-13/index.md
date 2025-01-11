@@ -5,7 +5,7 @@ slug: letter-2024-09-13
 date: 2024-09-13 07:19:00+0800
 provider: gitalk
 card: summary
-image: Cover.png
+image: Cover.jpg
 keywords:
     - MQSI
     - 随笔/日记
